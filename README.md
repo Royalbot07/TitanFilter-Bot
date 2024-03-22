@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="TitanFilter-Bot Logo">
 </p>
 <h1 align="center">
   𝑫𝑸-𝑻𝒉𝒆-𝑭𝒊𝒍𝒆-𝑫𝒐𝒏𝒐𝒓 𝑩𝒐𝒕
@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Joelkb/DQ-the-file-donor">
+<a href="https://heroku.com/deploy?template=https://github.com/Royalbot07/TitanFilter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -140,7 +140,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=web&name=dqthefiledonor)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Royalbot07/TitanFilter-Bot&branch=web&name=TitanFilterbot)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -167,7 +167,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Joelkb/DQ-the-file-donor/tree/web">
+<a href="https://render.com/deploy?repo=https://github.com/Royalbot07/TitanFilter-Bot/tree/web">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
